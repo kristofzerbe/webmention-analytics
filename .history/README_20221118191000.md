@@ -26,7 +26,7 @@ Things you may need:
 
 The easiest way to get started is to fork this repo and deploy it to a new Netlify site:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/maxboeck/webmention-analytics) 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kristofzerbe/webmention-analytics) 
 
 ### 1. Edit Settings
 
