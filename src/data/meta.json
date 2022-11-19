@@ -4,5 +4,6 @@
     "url": "https://webmentions.kiko.io",
     "domain": "kiko.io",
     "lang": "en",
-    "locale": "en_us"
+    "locale": "en_us",
+    "theme": "dark"
 }
