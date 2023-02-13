@@ -1,7 +1,7 @@
-name: Trigger GitHub Pages Build
+name: Webmention Analytics Build
+
 on:
-  schedule:
-    # Every day at midnight
+  schedule: # Every day at midnight
     - cron: '0 0 * * *'
   push:
     branches:
@@ -9,8 +9,7 @@ on:
   workflow_dispatch: # Run workflow manually, through the Github Actions Workflow page directly
 
 jobs:
-  build:
-    name: GitHub Pages Build
+  webmention-analytics-build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
